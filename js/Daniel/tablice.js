@@ -22,3 +22,4 @@ document.write('<p>Tablica: ' + tablica.join(', ') + '</p>');
 document.write('<p>Elementów: ' + tablica.length + '</p>');
 document.write('<p>Czy zawiera "Film2"? ' + tablica.includes('Film2') + '</p>');
 document.write('<p>Pozycja "Film2": ' + tablica.indexOf('Film2') + '</p>');
+//taktaktaktak
