@@ -4,3 +4,4 @@ if (userName) {
     powitanie.textContent = 'Ćw. 1. Witaj, ' + userName;
     document.getElementById('skrypty').append(powitanie);
 }
+// Plik odpowiedzialny za powitanie użytkownika
